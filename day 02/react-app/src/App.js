@@ -1,4 +1,4 @@
-import Expenses from './components/Expenses/Expense';
+import Expenses from './components/Expenses/Expenses';
 import React from 'react';
 
 
