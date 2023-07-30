@@ -4,7 +4,7 @@
     align-items: center;
     padding: 0.5rem;
     margin: 1rem 0;
-    background-color: rgb(152,105,240);
+    background-color: #ffc5c3;
     
 }
 
@@ -20,7 +20,7 @@
 
 .expense-item h2{
     flex: 1;
-    color: white;
+    color: black;
     font-size: 1rem;
     margin: 0 1rem;
 }
@@ -29,7 +29,7 @@
     font-size: 1rem;
     font-weight: bold;
     color: white;
-    background-color:rgb(117, 36, 247);
+    background-color:rgb(204,66,66);
     border: 1px solid white;
     padding: 0.5rem;
     border-radius: 12px;
