@@ -1,5 +1,5 @@
-
-import './Card.css';
+import React from 'react';
+import '..UI/card';
 
 const Card = (props) => {
     const classes = 'card ' + props.className; 
